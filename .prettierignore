@@ -1,0 +1,26 @@
+#ignore artifacts:
+build
+coverage
+
+/.expo
+/node_modules
+/assets
+/android
+/%ProgramData%
+/.vscode
+
+package-lock.json
+package.json
+README.md
+tsconfig.json
+app.json
+babel.config.js
+expo-env.d.ts
+.prettierrc
+.prettierignore
+.gitignore
+.eslintignore
+.husky
+
+# macOS
+.DS_Store
